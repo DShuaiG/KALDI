@@ -1,0 +1,6 @@
+lym_enroll1 /home/ls/Kaldi/kaldi/egs/aishell/v1_ownwav/mfcc/vad_enroll_lym.1.ark:12
+lym_enroll2 /home/ls/Kaldi/kaldi/egs/aishell/v1_ownwav/mfcc/vad_enroll_lym.1.ark:1458
+lym_enroll3 /home/ls/Kaldi/kaldi/egs/aishell/v1_ownwav/mfcc/vad_enroll_lym.1.ark:3884
+mm1_enroll1 /home/ls/Kaldi/kaldi/egs/aishell/v1_ownwav/mfcc/vad_enroll_lym.1.ark:5954
+mm1_enroll2 /home/ls/Kaldi/kaldi/egs/aishell/v1_ownwav/mfcc/vad_enroll_lym.1.ark:7220
+mm1_enroll3 /home/ls/Kaldi/kaldi/egs/aishell/v1_ownwav/mfcc/vad_enroll_lym.1.ark:8522
